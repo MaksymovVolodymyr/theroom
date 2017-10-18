@@ -1,0 +1,239 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M512 0c-281.6 0-512 230.4-512 512s230.4 512 512 512 512-230.4 512-512-230.4-512-512-512zM819.2 563.2h-358.4v-460.8h102.4v358.4h256v102.4z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(255, 255, 255)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "clock"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "rgb(255, 255, 255)"
+        }
+      ],
+      "properties": {
+        "order": 2,
+        "id": 5,
+        "name": "clock",
+        "prevSize": 32,
+        "code": 59648
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M700.416 122.88c-159.744-163.84-421.888-163.84-581.632 0s-159.744 434.176 0 598.016l290.816 303.104 290.816-299.008c159.744-167.936 159.744-434.176 0-602.112zM409.6 634.88c-114.688 0-204.8-94.208-204.8-212.992s90.112-212.992 204.8-212.992 204.8 94.208 204.8 212.992-90.112 212.992-204.8 212.992z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(255, 255, 255)"
+          }
+        ],
+        "width": 819,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "location"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "rgb(255, 255, 255)"
+        }
+      ],
+      "properties": {
+        "order": 3,
+        "id": 4,
+        "name": "location",
+        "prevSize": 32,
+        "code": 59649
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512 0c-281.6 0-512 230.4-512 512s230.4 512 512 512 512-230.4 512-512-230.4-512-512-512zM691.2 716.8l-66.56-174.080-112.64 204.8-112.64-204.8-66.56 174.080h-179.2l194.56-501.76 163.84 256 163.84-256 194.56 501.76h-179.2z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(255, 255, 255)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "metro"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "rgb(255, 255, 255)"
+        }
+      ],
+      "properties": {
+        "order": 4,
+        "id": 3,
+        "name": "metro",
+        "prevSize": 32,
+        "code": 59650
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 2
+    },
+    {
+      "icon": {
+        "paths": [
+          "M537.6 512l384-363.52c-209.92-199.68-552.96-199.68-762.88 0s-209.92 527.36 0 727.040 552.96 199.68 762.88 0l-384-363.52z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(255, 255, 255)"
+          }
+        ],
+        "width": 922,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "pacman"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "rgb(255, 255, 255)"
+        }
+      ],
+      "properties": {
+        "order": 5,
+        "id": 2,
+        "name": "pacman",
+        "prevSize": 32,
+        "code": 59651
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 3
+    },
+    {
+      "icon": {
+        "paths": [
+          "M512 0c-281.6 0-512 230.4-512 512s230.4 512 512 512 512-230.4 512-512c0-281.6-230.4-512-512-512zM783.36 747.52l-40.96 40.96c-5.12 5.12-30.72 10.24-30.72 10.24-128 0-256-51.2-348.16-143.36s-143.36-215.040-143.36-348.16c0 0 5.12-20.48 10.24-25.6l40.96-40.96c15.36-15.36 46.080-20.48 66.56-15.36l10.24 5.12c20.48 5.12 40.96 30.72 46.080 51.2l20.48 76.8c5.12 20.48 0 51.2-15.36 66.56l-25.6 20.48c25.6 97.28 102.4 179.2 204.8 204.8l25.6-25.6c15.36-15.36 46.080-20.48 66.56-15.36l76.8 20.48c20.48 5.12 40.96 25.6 51.2 46.080l5.12 10.24c-0 15.36-5.12 46.080-20.48 61.44z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(255, 255, 255)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "phone"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "rgb(255, 255, 255)"
+        }
+      ],
+      "properties": {
+        "order": 6,
+        "id": 1,
+        "name": "phone",
+        "prevSize": 32,
+        "code": 59652
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 4
+    },
+    {
+      "icon": {
+        "paths": [
+          "M546.133 0h-409.6c-75.093 0-136.533 61.44-136.533 136.533v750.933c0 75.093 61.44 136.533 136.533 136.533h409.6c75.093 0 136.533-61.44 136.533-136.533v-750.933c0-75.093-61.44-136.533-136.533-136.533zM341.333 631.467l-163.84-163.84 47.787-47.787 116.053 116.053 116.053-116.053 47.787 47.787-163.84 163.84zM341.333 426.667l-163.84-163.84 47.787-47.787 116.053 116.053 116.053-116.053 47.787 47.787-163.84 163.84z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(255, 255, 255)"
+          }
+        ],
+        "width": 683,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "scroll"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "rgb(255, 255, 255)"
+        }
+      ],
+      "properties": {
+        "order": 7,
+        "id": 0,
+        "name": "scroll",
+        "prevSize": 32,
+        "code": 59653
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 5
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
